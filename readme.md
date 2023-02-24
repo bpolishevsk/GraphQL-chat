@@ -1,6 +1,5 @@
 # graphql-chat
 
-> Note, this project is under construction :construction: I will resume the [YouTube series](https://www.youtube.com/watch?v=HKqbBrl_fKc&list=PLcCp4mjO-z9_y8lByvIfNgA_F18l-soQv) once it's ready. Until then, you can check the code for the playlist in the [stable](https://github.com/alex996/graphql-chat/tree/stable) branch.
 
 GraphQL chat API & UI monorepo.
 
